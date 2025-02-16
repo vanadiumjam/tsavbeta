@@ -1,0 +1,5 @@
+discord.py
+torch
+torchvision
+Pillow
+scipy
